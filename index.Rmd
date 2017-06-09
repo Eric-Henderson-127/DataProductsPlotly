@@ -33,6 +33,8 @@ While not particularly informative, it is an interesting way to visualize the da
 
 Many students, in the Coursera discussion forums, have reported trouble viewing Plotly plots in Firefox/Mozilla. If the plot does not appear on the next slide, then please try another browser (such as Chrome or Microsoft Edge/Explorer).
 
+Additional note: The plot contains many data points and may take a moment to load or require you to re-view the slide (by advancing or returning back to slide 4).
+
 ## City Data (Lattitude vs Longitude)
 
 ```{r, echo=FALSE}
