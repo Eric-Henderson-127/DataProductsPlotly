@@ -25,7 +25,13 @@ Guidelines:
 
 Implementation:
 
-The next slide shows a Plotly plot of Latitude vs Longitude of city data from http://simplemaps.com/data/world-cities. While not particularly informative, it is an interesting way to visualize the data and to find that the plotting of 7,332 cities location data roughly draws the outlines of the continents.
+Included in this presentation (slide 4) is a Plotly plot of Latitude vs Longitude of city data from
+http://simplemaps.com/data/world-cities.
+While not particularly informative, it is an interesting way to visualize the data and to find that the plotting of 7,332 cities location data roughly draws the outlines of the continents.
+
+## Special Note About Browser Compatibility
+
+Many students, in the Coursera discussion forums, have reported trouble viewing Plotly plots in Firefox/Mozilla. If the plot does not appear on the next slide, then please try another browser (such as Chrome or Microsoft Edge/Explorer).
 
 ## City Data (Lattitude vs Longitude)
 
